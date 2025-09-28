@@ -15,8 +15,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=bitcoin&logoColor=white)
-![Rust](https://img.shields.io/badge/-Blockchain-121D33?logo=bitcoin&logoColor=white)
-![](https://img.shields.io/badge/-Blockchain-121D33?logo=bitcoin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-121D33?logo=bitcoin&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-121D33?logo=rust&logoColor=white)
 
 
 

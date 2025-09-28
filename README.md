@@ -16,7 +16,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=bitcoin&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-121D33?logo=rust&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-121D33?logo=nextjs&logoColor=white)
+![NextJs](https://img.shields.io/badge/-Next-121D33?logo=next&logoColor=white)
 ![php](https://img.shields.io/badge/-Php-121D33?logo=php&logoColor=white)
 
 

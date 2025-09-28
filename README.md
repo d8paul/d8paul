@@ -9,7 +9,7 @@
 - [Portfolio](https://your-portfolio-link.com)
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [Twitter](https://twitter.com/yourusername)
---!>
+-->
 
 ## 🛠️ Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)

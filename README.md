@@ -1,4 +1,4 @@
-# Hi there, I'm Paul
+# Hi, I'm Paul
 <!--
 ## 🚀 About Me
 - 🌱 I’m currently learning **Rust, AI integration, and blockchain**
@@ -11,10 +11,12 @@
 - [Twitter](https://twitter.com/yourusername)
 -->
 
-## 🛠️ Technologies & Tools
+## Work Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=bitcoin&logoColor=white)
+![Rust](https://img.shields.io/badge/-Blockchain-121D33?logo=bitcoin&logoColor=white)
+![](https://img.shields.io/badge/-Blockchain-121D33?logo=bitcoin&logoColor=white)
 
 
 

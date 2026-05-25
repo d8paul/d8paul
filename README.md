@@ -1,7 +1,5 @@
 # Hi, I'm Paul
 
-## About Me
-
 Blockchain engineer with 6+ years building DeFi solutions on Celo and Stellar. Experienced in smart contracts, cross-chain infrastructure, and scalable financial systems powering open and accessible finance.
 
 Focused on mobile-first Web3 products, financial inclusion, and open-source infrastructure.

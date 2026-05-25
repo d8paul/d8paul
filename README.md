@@ -1,11 +1,12 @@
 # Hi, I'm Paul
-<!--
+
 ## About Me
 
-Blockchain engineer with 7+ years building DeFi solutions on Celo and Stellar. Experienced in smart contracts, cross-chain infrastructure, and scalable financial systems powering open and accessible finance.
+Blockchain engineer with 6+ years building DeFi solutions on Celo and Stellar. Experienced in smart contracts, cross-chain infrastructure, and scalable financial systems powering open and accessible finance.
 
 Focused on mobile-first Web3 products, financial inclusion, and open-source infrastructure.
 
+<!--
 - 🌱 I’m currently learning **Rust, AI integration, and blockchain**
 - 💻 Full Stack Developer (ReactJS, Express.js, NativeScript, Flutter, Blockchain)
 - 🌍 Based in Kenya
